@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: DouseReminder
+## Notes: Reminds to douse runes in MC.
+## Author: Numielle
+## Version: 0.1
+## Dependencies:
+## SavedVariables: 
+DouseReminder.lua
